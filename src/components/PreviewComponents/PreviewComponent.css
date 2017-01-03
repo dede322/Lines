@@ -1,0 +1,9 @@
+.Preview-component {
+    margin-left: 20px;
+    width: 100px;
+    height: 80px;
+}
+
+.Preview-component.Right{
+    float: left;
+}
