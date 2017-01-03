@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import {generateRandomColoredLines} from '../../utils/lines.js';
 import PreviewComponent from './PreviewComponent.jsx';
-import '../../App.css';
 import './PreviewContainer.css';
 import './PreviewComponent.css';
 

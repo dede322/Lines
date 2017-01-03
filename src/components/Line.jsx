@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import '../App.css';
 import './Line.css'
 
 class Line extends Component {
@@ -24,5 +23,6 @@ Line.propTypes = {
     index: React.PropTypes.number.isRequired,
     color: React.PropTypes.string.isRequired
 };
+
 Line.defaultProps = {onLineClick: () => {}};
 export default Line;

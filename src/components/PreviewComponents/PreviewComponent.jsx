@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import LinesComponent from '../LinesComponent.jsx';
-import '../../App.css';
 import './PreviewComponent.css';
 
 class PreviewComponent extends Component {
